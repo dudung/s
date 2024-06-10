@@ -8,10 +8,12 @@ authors = ['viridi']
 +++
 Simple datalake-like data managemen using folder structure  <!--more-->
 
-+ Slide https://osf.io/xq3mb
-+ Outline
++ `outln`
   - Intro 3
   - Available data (as examples) 13
   - Access all data 21
   - Closing 31
-+ Source 
++ `slide` https://osf.io/xq3mb
++ `story` n/a
++ `video` n/a
++ `other` n/a
