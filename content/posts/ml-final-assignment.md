@@ -14,6 +14,4 @@ Finding case, data, and code for Machine Learning  <!--more-->
   - Email spam detection 9
   - Weather forecasting 14
   - Closing 18
-+ `story` n/a
-+ `video` n/a
-+ `other` n/a
++ `infos` []

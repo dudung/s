@@ -12,6 +12,4 @@ Some information about Data Science Study Program  <!--more-->
 + `outln`
   - Peluang lulusan 3
   - Others 28
-+ `story` n/a
-+ `video` n/a
-+ `other` n/a
++ `infos` []
