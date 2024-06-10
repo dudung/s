@@ -1,6 +1,6 @@
 +++
 title = 'ml synthetic data with python'
-date = 2024-01-29T06:00:00+07:00
+date = 2024-04-21T06:00:00+07:00
 draft = false
 math = true
 tags = ['data science', 'dataset', 'synthetic']
