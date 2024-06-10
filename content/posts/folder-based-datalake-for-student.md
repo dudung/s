@@ -13,7 +13,7 @@ Simple datalake-like data managemen using folder structure  <!--more-->
   - Available data (as examples) 13
   - Access all data 21
   - Closing 31
-+ `slide` https://osf.io/xq3mb
++ `slide` [xq3mb](https://osf.io/xq3mb)
 + `story` n/a
 + `video` n/a
 + `other` n/a
