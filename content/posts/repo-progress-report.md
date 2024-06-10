@@ -3,7 +3,7 @@ title = 'repository progress report'
 date = 2024-03-20T06:00:00+07:00
 draft = false
 math = true
-tags = ['research topics']
+tags = ['progress report', 'repository']
 authors = ['viridi']
 +++
 Learning to create it with sufficient information <!--more-->
