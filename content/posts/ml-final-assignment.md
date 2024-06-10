@@ -8,12 +8,12 @@ authors = ['viridi']
 +++
 Finding case, data, and code for Machine Learning  <!--more-->
 
++ `slide` [aykwd](https://osf.io/aykwd)
 + `outln`
   - Intro 3
   - Email spam detection 9
   - Weather forecasting 14
   - Closing 18
-+ `slide` [aykwd](https://osf.io/aykwd)
 + `story` n/a
 + `video` n/a
 + `other` n/a

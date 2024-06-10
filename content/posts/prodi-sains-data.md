@@ -8,10 +8,10 @@ authors = ['viridi']
 +++
 Some information about Data Science Study Program  <!--more-->
 
++ `slide` [3at6h](https://osf.io/3at6h)
 + `outln`
   - Peluang lulusan 3
   - Others 28
-+ `slide` [3at6h](https://osf.io/3at6h)
 + `story` n/a
 + `video` n/a
 + `other` n/a
