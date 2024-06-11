@@ -3,7 +3,7 @@ title = 'physics in pura mangkunegaran'
 date = 2024-03-03T06:00:00+07:00
 draft = false
 math = true
-tags = ['student seminar', '2023-2']
+tags = ['physics', 'mangkunegaran']
 authors = ['viridi']
 +++
 Natural ventilation, lighting, sound reverberation <!--more-->
