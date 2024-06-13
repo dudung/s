@@ -25,8 +25,7 @@ Eine To-Do Liste der Activit&auml;ten <!--more-->
 + `fri-14-1545-20922319` [`yrpb3-100`](https://osf.io/yrpb3/) Zainuddin
 + `fri-14-1500-20922320` [`snfve-100`](https://osf.io/snfve/) Aditya Adiaksa
 
-- ..
-  - `thu-13-0900-20923005` [`jq4nu-110`](https://osf.io/jq4nu/) Aria Wahyu Wicaksono
+- `thu-13-0900-20923005` [`jq4nu-110`](https://osf.io/jq4nu/) Aria Wahyu Wicaksono
   - `wed-12-1300-10220018` [`osfny-010`](https://osf.io/) Gita Amelia Marianto Limbong
 - `wed-12-1130-30222302` [`xq7kb-111`](https://osf.io/xq7kb/) Jaja Muhamad Jabar
 - `wed-12-1130-30222002` [`w9bf6-111`](https://osf.io/w9bf6/) Vepy Asyana
