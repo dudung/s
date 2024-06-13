@@ -25,14 +25,22 @@ Eine To-Do Liste der Activit&auml;ten <!--more-->
 + `fri-14-1545-20922319` [`yrpb3-100`](https://osf.io/yrpb3/) Zainuddin
 + `fri-14-1500-20922320` [`snfve-100`](https://osf.io/snfve/) Aditya Adiaksa
 
-- `thu-13-0900-20923005` [`jq4nu-110`](https://osf.io/jq4nu/) Aria Wahyu Wicaksono
-- `wed-12-1300-10220018` [`osfny-010`](https://osf.io/) Gita Amelia Marianto Limbong
-- `thu-06-0815-20922325` [`6yucn-110`](https://osf.io/6yucn/) Galih Arisona
-- `thu-06-0730-20922321` [`tn2pg-110`](https://osf.io/tn2pg/) Alief Pascal Taruna
-- `web-05-0830-10219076` [`ewa4k-110`](https://osf.io/ewa4k/) Nurlaila H. Tan
+- ..
+  - `thu-13-0900-20923005` [`jq4nu-110`](https://osf.io/jq4nu/) Aria Wahyu Wicaksono
+  - `wed-12-1300-10220018` [`osfny-010`](https://osf.io/) Gita Amelia Marianto Limbong
+- `wed-12-1130-30222302` [`xq7kb-111`](https://osf.io/xq7kb/) Jaja Muhamad Jabar
+- `wed-12-1130-30222002` [`w9bf6-111`](https://osf.io/w9bf6/) Vepy Asyana
+- `wed-12-0930-30222004` [`nek6f-111`](https://osf.io/nek6f/) Yeni Pertiwi
+  - `thu-06-0815-20922325` [`6yucn-110`](https://osf.io/6yucn/) Galih Arisona
+  - `thu-06-0730-20922321` [`tn2pg-110`](https://osf.io/tn2pg/) Alief Pascal Taruna
+  - `web-05-0830-10219076` [`ewa4k-110`](https://osf.io/ewa4k/) Nurlaila H. Tan
 
 ### 2024-may
 + `tue-21-0900-20221307` [`3nx7z-110`](https://osf.io/3nx7z/) Budi Dharmala Saputra
 
+### 2024-jan
++ `fri-05-1000-30222004` [`nek6f-111`](https://osf.io/nek6f/) Yeni Pertiwi
+
 ### 2024-mmm
 + `day-dd-hhh-20222010` [`muv68-110`](https://osf.io/muv68/) Nazla Innayah
+
