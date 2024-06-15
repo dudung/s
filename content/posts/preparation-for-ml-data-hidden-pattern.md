@@ -3,7 +3,7 @@ title = 'preparation for ml data hidden parttern'
 date = 2024-06-15T19:25:00+07:00
 draft = false
 math = true
-tags = ['data', 'preparation', 'nanoteens']
+tags = ['data','machine learning', 'preparation', 'nanoteens']
 authors = ['viridi']
 +++
 Preparation for a talk in Nanoteens 2024 <!--more-->
