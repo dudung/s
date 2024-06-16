@@ -14,4 +14,6 @@ Preparation for a talk in Nanoteens 2024 <!--more-->
   - Images 7
   - Texts 15
   - Words 21
+  - Discussion 27
+  - Demo 47
 + `infos` []
