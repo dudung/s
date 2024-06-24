@@ -10,5 +10,6 @@ Short review on compartement model <!--more-->
 
 + `slide` []()
 + `outln`
-  - Intro 3
-+ `infos` []
+  - .. 3
++ `infos`
+  - url https://chatgpt.com/share/f4862983-efb0-4409-a5b9-921a9f791f6c [20240624].
