@@ -12,4 +12,4 @@ Short review on compartement model <!--more-->
 + `outln`
   - .. 3
 + `infos`
-  - url https://chatgpt.com/share/f4862983-efb0-4409-a5b9-921a9f791f6c [20240624].
+  - url https://chatgpt.com/share/2393861e-c650-4460-a246-deb05cc93c81 [20240624].
